@@ -3,6 +3,7 @@ Although the Twitter API provides easy access to Twitter data, there are substan
 The returning data contains following contents,
 
 | __Columns__          | __Description__                         |
+| -------------------- |:----------------------------------------|
 | 'key'                | Identifier of interaction chain         |
 | 'tweet_id'           | ID of the tweet                         |
 | 'time'               | Time of the tweet                       |
