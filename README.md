@@ -1,1 +1,2 @@
 # Twitter-Data-Collection
+Although the Twitter API provides easy access to Twitter data, there are substantial limits on data that is able to be collected. This script combines Twitter API and webdriver to collect full conversation data on Twitter around a specified user in specified time period. Te collected content includes any tweets sent by or to or mention the specified user as well as any responses and retweets.
